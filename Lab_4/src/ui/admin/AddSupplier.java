@@ -31,7 +31,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author Rushabh
+ * @author lokesh
  */
 public class AddSupplier extends javax.swing.JPanel {
 

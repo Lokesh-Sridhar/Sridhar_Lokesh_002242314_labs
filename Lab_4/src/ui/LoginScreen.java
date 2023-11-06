@@ -15,7 +15,7 @@ import ui.supplier.SupplierWorkAreaJPanel;
 
 /**
  *
- * @author archil
+ * @author lokesh
  */
 public class LoginScreen extends javax.swing.JPanel {
 
